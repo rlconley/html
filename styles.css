@@ -1,0 +1,87 @@
+html{
+  max-width: 965px;
+}
+h1 {
+  background: #15679B;
+  font-family:'Oswald', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 56pt;
+  font-weight: 300;
+  display: block;
+
+}
+
+
+body {
+  font-family:'Open Sans', sans-serif;
+}
+
+.the_rest {
+font-size: 12pt;
+color: #596265;
+font-weight: 300;
+}
+
+#company {
+  position: absolute; top: 10%; width: 400px;
+}
+
+img {
+  -webkit-filter: opacity(15%);
+  -webkit-filter: opacity(15%);
+}
+
+#roundpuppy {
+    background: #15679B;
+    position: relative;
+    display: block;
+    position: relative;
+    margin-left: 32%;
+    margin-right: 32%;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+#name {
+  text-align: center;
+  position: relative;
+}
+#social {
+  text-align: center;
+  position: relative;
+}
+
+#squarepuppy {
+  background: #15679B;
+  display: block;
+  margin-left: 13%;
+  margin-right: 13%;
+  position: relative:
+  overflow: hidden;
+}
+
+section {
+  float: left; width: 40%;
+  margin: 50px 50px 50px 100px;
+}
+
+#headline {
+  color: #122B3D;
+  font-size: 24pt;
+  font-family: 'Open Sans', sans-serif;
+  font-stretch: condensed;
+}
+
+#quote {
+  font-size: 14pt;
+  color: #13649A;
+  text-align: center;
+  border-left: solid gray;
+  margin: 0px 0px 0px 12px
+}
+
+aside {
+  float: right; width: 28%;
+  margin: 50px 75px 50px 50px;
+}
