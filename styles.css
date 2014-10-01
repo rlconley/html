@@ -1,7 +1,7 @@
 html{
   max-width: 965px;
 }
-h1 {
+header {
   background: #15679B;
   font-family:'Oswald', sans-serif;
   text-align: center;
@@ -9,7 +9,7 @@ h1 {
   font-size: 56pt;
   font-weight: 300;
   display: block;
-
+  background-image: url("http://placepuppy.it/955/600");
 }
 
 
@@ -24,7 +24,7 @@ font-weight: 300;
 }
 
 #company {
-  position: absolute; top: 10%; width: 400px;
+
 }
 
 img {
@@ -82,6 +82,6 @@ section {
 }
 
 aside {
-  float: right; width: 28%;
+  float: left; width: 28%;
   margin: 50px 75px 50px 50px;
 }
